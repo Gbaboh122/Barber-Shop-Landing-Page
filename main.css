@@ -449,7 +449,7 @@ hr {
 }
 
 .footer-img {
-  max-width: 250px;
+  max-width: 150px;
   opacity: 0.3;
   position: absolute;
   left: 50%;
@@ -507,6 +507,6 @@ hr {
   }
 
   .social-links p {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
   }
 }
